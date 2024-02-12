@@ -1,6 +1,7 @@
 package com.keelient.learnjpaandhibernate.jdbc;
 
-import com.keelient.learnjpaandhibernate.Course;
+
+import com.keelient.learnjpaandhibernate.course.Course;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
